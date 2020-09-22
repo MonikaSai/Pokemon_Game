@@ -1,0 +1,37 @@
+R R R R R R R R R w w w R R R R R R R R
+R R R R R R R w w w R R R R R R R R R R
+R R R R R R R w w w R R R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R w w w R R R R R R R R R R R R R R
+R R R R w w w R R R R R R R R R R R R R
+R R R R w w w w R R R R R R R R R R R R
+R R R R R R R w w w R R R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R w w w R R R R R R R R w R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R R R R R R R R R R R w R R R R R R
+R R R R w R R R R R R R R R R R R R R R
+R R R R w R R R R R R R R R R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R R w R R R R R R R w R R R R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R R R w R R R R R R R R R R R R R R
+R R R R R R R R w w R R R R R R R R R R
+R R R R R R R R R R R R w R R R R R R R
+R R R R R R R R R R R R R R R w R R R R
+R R R R R R R R R R R R R R R R R R R R
+R R R R R R R w R R R R R R R R R R R R
+R R w R R R R R R R R R R R R R R R R R
+R R R R R R R R R R R w R R R R R R R R
+
+
+
